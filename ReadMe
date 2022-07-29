@@ -1,0 +1,11 @@
+Run this code in this format 
+
+	<< node matrix.js input.txt >>
+
+After this command automatically generate <<output.txt>> and <<result.txt>> 
+
+
+<< output.txt >> is  a result of a equation solver
+
+<< result.txt >> compare a  golden.txt and output .txt with  Passed and failed
+
